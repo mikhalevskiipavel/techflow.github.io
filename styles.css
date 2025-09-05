@@ -798,6 +798,7 @@ p {
     margin-bottom: 3rem;
 }
 
+
 .footer-section h4 {
     margin-bottom: 1.5rem;
     color: #00ff88;
@@ -1092,3 +1093,8 @@ p {
     background: linear-gradient(45deg, #00d4ff, #00ff88);
 
 } 
+
+.footer-section
+{
+    text-aling:center;
+    
